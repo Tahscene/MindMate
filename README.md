@@ -51,7 +51,7 @@ MindMate is a personal desktop assistant developed in Python using the Tkinter G
   <li>Greeting based on time of day</li>
 </ul>
 
-<h2>🧪 Ideal Use Cases</h2>
+<h2>🐍 Ideal Use Cases</h2>
 <ul>
   <li>Hands-free desktop interaction</li>
   <li>Basic task automation for students and hobbyists</li>
