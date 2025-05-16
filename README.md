@@ -1,14 +1,10 @@
 
-<h1>🧠 Meet Your Smart Desktop Assistant: <strong>MindMate</strong> 💻</h1>
+<h1> Meet Your Smart Desktop Assistant: <strong>MindMate</strong> 🧠💻</h1>
 <p>
   <strong>MindMate</strong> is your friendly desktop AI assistant designed to simplify everyday tasks using Python and voice commands. From playing music to searching the web, it brings intelligent interaction to your fingertips.
 </p>
 
-<!-- 🔗 Add your GitHub image link below -->
-<img src="https://github.com/Tahscene/MindMate/blob/main/images/mindmate-ui.png?raw=true"
-     alt="MindMate UI"
-     width="250px"
-     style="border-radius: 8px; border: 1px solid #ccc; margin-top: 10px;" />
+
 
 <h2>📄 Project Overview</h2>
 <p>
